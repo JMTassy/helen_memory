@@ -1,0 +1,10 @@
+{
+  "devices": {
+    "jean-marietassy-macbook-pro-de-jean-marie": {
+      "hostname": "MacBook-Pro-de-Jean-Marie.local",
+      "notes": "macbook primary \u2014 jean-marie",
+      "registered_at": "2026-04-22T16:36:48.762672+00:00"
+    }
+  },
+  "schema": "HELEN_DEVICE_REGISTRY_V1"
+}
